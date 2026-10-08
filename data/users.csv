@@ -1,0 +1,2 @@
+user_id,display_name,password_hash,role,active
+kim1,kds,pbkdf2_sha256$600000$63e506e60071ac16dc993d837fa4bcbf$7896bc039da19c09b8117aa0ac386266294c785441734540d9653bff8178caa2,admin,true
